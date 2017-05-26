@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let apiGoogle = "AIzaSyAjhCfrSa5v9-PwXCh0_EgMs2TrkPyuc8I"
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
